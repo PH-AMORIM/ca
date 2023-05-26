@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(202, 11, 11, 0.747);
+   
+    
+}
+div{
+    background-color: darkred;
+    border: 30px;
+    border-radius: 10px;
+    
+    color: aliceblue;
+    text-align: center;
+}
